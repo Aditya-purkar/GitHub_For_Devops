@@ -1,0 +1,28 @@
+ 
+   
+
+   8 git init
+   9 dir
+  10 dir -a
+  11 dir /a
+  12 dir -force
+  13 git status
+
+  15 git status
+  16 git add testing.py
+  17 git status
+  18 git rm --cached testing.py
+  19 git status
+  20 git add.
+
+    22 git status
+
+  23 git status
+  25 git commit -m "Initial commit"
+  26 git status
+  27 git rm --cached testing.py
+  28 git status
+  29 git restore testing.py
+  31 git status
+  32 git restore --staged testing.py
+  33 git status
